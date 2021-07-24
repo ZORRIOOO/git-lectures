@@ -1,2 +1,3 @@
 const newString = 'something new'
-const fileChange = 'without conflict' // User 1 line
+
+const fileChanged2 = 'new changes' // another file from user 2
